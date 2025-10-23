@@ -1,12 +1,10 @@
-# 🌟 My Personal Static Website Projects Repository
+# 🌟 My Personal Projects Repo 🌟
 
-Welcome to my collection of simple web projects! This repository is a home for small, **static websites** built using only **HTML** and **CSS**.
-
----
+Welcome to the One World Quest collection of simple web projects! This repository is a home for small, **static websites** built using **HTML** and **CSS**. The projects will be displayed [here](https://oneworldquest.click/) for future reference.
 
 ## 🎯 What is This Repository For?
 
-This repository serves a few important purposes:
+**This repository serves a few important purposes:**
 
 ### 1. A Digital Portfolio (Your Resume for Code)
 Think of this repository as a **digital portfolio** or an online resume that shows off your coding skills. As you learn and grow, having a place to demonstrate your work is essential! When you apply for a course, an internship, or even a future job, being able to say "Here, check out what I've built!" is incredibly powerful.
@@ -27,9 +25,9 @@ The organization of this repository is simple and clean. Each folder belongs to 
 
 | Folder Name | Description |
 | :--- | :--- |
-| `student.a.name` | The static website project built by Student A. |
-| `student.b.name` | The static website project built by Student B. |
 | `README.md` | This file! (Explains the whole repository). |
+| `student-a-name` | The static website project built by Student A. |
+| `student-b-name` | The static website project built by Student B. |
 
 **To view a project:** Just click on one of the folders above! Inside, you'll find an `index.html` file and a `styles.css` file (or similar) which make up the website.
 
