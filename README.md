@@ -1,4 +1,4 @@
-# 🌟 My Personal Projects Repo 🌟
+# 🌟 OWQ Personal Projects Repo 🌟
 
 Welcome to the One World Quest collection of simple web projects! This repository is a home for small, **static websites** built using **HTML** and **CSS**. The projects will be displayed [here](https://oneworldquest.click/) for future reference.
 
